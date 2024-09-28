@@ -30,7 +30,7 @@ const Input = () => {
       })
       .catch((err) => {
         console.log(err);
-        alert("An error occurred. Please try again.");
+        alert("Failed to fetch weather data");
         setLoading(false);
       });
   };
