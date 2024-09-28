@@ -16,7 +16,7 @@ const Input = () => {
     setLoading(true);
 
     fetch(
-      `http://api.weatherapi.com/v1/current.json?key=da64d5b27581498b800130057242809&q=${city}`
+      `https://api.weatherapi.com/v1/current.json?key=da64d5b27581498b800130057242809&q=${city}`
     )
       .then((response) => response.json())
       .then((data) => {
