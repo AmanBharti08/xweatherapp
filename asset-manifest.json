@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/xweatherapp/static/css/main.d721a04d.css",
+    "main.js": "/xweatherapp/static/js/main.a35ad5a3.js",
+    "static/js/453.51dd0fbe.chunk.js": "/xweatherapp/static/js/453.51dd0fbe.chunk.js",
+    "index.html": "/xweatherapp/index.html",
+    "main.d721a04d.css.map": "/xweatherapp/static/css/main.d721a04d.css.map",
+    "main.a35ad5a3.js.map": "/xweatherapp/static/js/main.a35ad5a3.js.map",
+    "453.51dd0fbe.chunk.js.map": "/xweatherapp/static/js/453.51dd0fbe.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d721a04d.css",
+    "static/js/main.a35ad5a3.js"
+  ]
+}
